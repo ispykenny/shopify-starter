@@ -1,0 +1,42 @@
+{
+  "name": "Kenny's-Wordpress-Environment",
+  "version": "1.0.0",
+  "description": "- Built ontop of Wordpress using ACF (Advanced Custom Fields for custom Metafields) - Has Webpack Javascript Build. Using industry standards (ES6 syntax) - Has Sass (css environment)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenny Krosky",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^2.2.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.23.6",
+    "casperjs": "^1.1.4",
+    "chalk": "^2.3.1",
+    "del": "^3.0.0",
+    "dotenv": "^5.0.0",
+    "flickity": "^2.1.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-util": "^3.0.8",
+    "handlebars": "^4.0.11",
+    "hubspot-cos-uploader": "^1.2.1",
+    "jquery": "^3.3.1",
+    "masonry-layout": "^4.2.1",
+    "moment": "^2.22.2",
+    "parallax-js": "^3.1.0",
+    "pump": "^3.0.0",
+    "tilt.js": "^1.2.1",
+    "webpack": "^3.11.0"
+  }
+}
